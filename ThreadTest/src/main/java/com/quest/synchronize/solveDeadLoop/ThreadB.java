@@ -1,4 +1,4 @@
-package com.quest.solveDeadLoop;
+package com.quest.synchronize.solveDeadLoop;
 
 public class ThreadB extends Thread {
 	private Service service;

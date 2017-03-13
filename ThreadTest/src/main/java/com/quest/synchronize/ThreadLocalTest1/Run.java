@@ -1,4 +1,4 @@
-package com.quest.ThreadLocalTest1;
+package com.quest.synchronize.ThreadLocalTest1;
 
 public class Run {
 	public static ThreadLocal t1 = new ThreadLocal();

@@ -1,4 +1,4 @@
-package com.quest.innerClass;
+package com.quest.synchronize.innerClass;
 
 public class PublicClass {
 	private String username;

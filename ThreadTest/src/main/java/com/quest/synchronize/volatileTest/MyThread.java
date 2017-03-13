@@ -1,4 +1,4 @@
-package com.quest.volatileTest;
+package com.quest.synchronize.volatileTest;
 
 public class MyThread extends Thread {
 	volatile public static int count;//如果使用synchronized修饰，这里的volatile就没有必要使用了

@@ -1,4 +1,4 @@
-package com.quest.waitHasParamMethod;
+package com.quest.synchronize.waitHasParamMethod;
 
 public class MyRunnable {
 	static private Object lock = new Object();

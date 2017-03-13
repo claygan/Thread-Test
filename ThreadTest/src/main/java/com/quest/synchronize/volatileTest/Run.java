@@ -1,4 +1,4 @@
-package com.quest.volatileTest;
+package com.quest.synchronize.volatileTest;
 
 public class Run {
 

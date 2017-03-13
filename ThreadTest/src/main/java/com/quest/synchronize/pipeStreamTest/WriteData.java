@@ -1,4 +1,4 @@
-package com.quest.pipeStreamTest;
+package com.quest.synchronize.pipeStreamTest;
 
 import java.io.IOException;
 import java.io.PipedOutputStream;

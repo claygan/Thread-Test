@@ -1,4 +1,4 @@
-package com.quest.inheritableThreadLocalTest;
+package com.quest.synchronize.inheritableThreadLocalTest;
 
 public class Run {
 

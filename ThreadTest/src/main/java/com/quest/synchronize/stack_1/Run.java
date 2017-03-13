@@ -1,4 +1,4 @@
-package com.quest.stack_1;
+package com.quest.synchronize.stack_1;
 
 public class Run {
 	public static void main(String[] args) {

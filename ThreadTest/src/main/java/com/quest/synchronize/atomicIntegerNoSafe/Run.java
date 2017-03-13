@@ -1,4 +1,4 @@
-package com.quest.atomicIntegerNoSafe;
+package com.quest.synchronize.atomicIntegerNoSafe;
 
 public class Run {
 

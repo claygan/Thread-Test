@@ -1,4 +1,4 @@
-package com.quest.ThreadTest;
+package com.quest.synchronize.ThreadTest;
 
 public class Run {
 

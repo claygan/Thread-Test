@@ -1,4 +1,4 @@
-package com.quest.joinTest;
+package com.quest.synchronize.joinTest;
 
 public class MyThread extends Thread {
 

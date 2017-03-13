@@ -1,4 +1,4 @@
-package com.quest.solveDeadLoop;
+package com.quest.synchronize.solveDeadLoop;
 
 /**
  * @author Quest

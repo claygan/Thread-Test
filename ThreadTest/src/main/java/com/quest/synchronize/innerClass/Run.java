@@ -1,6 +1,6 @@
-package com.quest.innerClass;
+package com.quest.synchronize.innerClass;
 
-import com.quest.innerClass.PublicClass.PrivateClass;
+import com.quest.synchronize.innerClass.PublicClass.PrivateClass;
 
 public class Run {
 

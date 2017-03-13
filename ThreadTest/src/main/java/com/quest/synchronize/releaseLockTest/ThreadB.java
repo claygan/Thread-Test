@@ -1,4 +1,4 @@
-package com.quest.releaseLockTest;
+package com.quest.synchronize.releaseLockTest;
 
 public class ThreadB extends Thread {
 	private Object lock;

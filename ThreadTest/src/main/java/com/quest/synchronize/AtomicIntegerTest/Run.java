@@ -1,4 +1,4 @@
-package com.quest.AtomicIntegerTest;
+package com.quest.synchronize.AtomicIntegerTest;
 
 public class Run {
 

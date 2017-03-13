@@ -1,4 +1,4 @@
-package com.quest.waitAndNotifyTest;
+package com.quest.synchronize.waitAndNotifyTest;
 
 public class MyThread1 extends Thread {
 	private Object lock;

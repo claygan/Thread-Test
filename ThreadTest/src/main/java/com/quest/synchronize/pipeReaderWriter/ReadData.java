@@ -1,4 +1,4 @@
-package com.quest.pipeReaderWriter;
+package com.quest.synchronize.pipeReaderWriter;
 
 import java.io.IOException;
 import java.io.PipedReader;

@@ -1,4 +1,4 @@
-package com.quest.stack_1;
+package com.quest.synchronize.stack_1;
 
 public class C_Thread extends Thread {
 	private C c;

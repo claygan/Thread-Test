@@ -1,4 +1,4 @@
-package com.quest.wait_notify_insert_test;
+package com.quest.synchronize.wait_notify_insert_test;
 
 public class DBTools {
 	volatile private boolean prevIsA = false;

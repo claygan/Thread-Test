@@ -1,4 +1,4 @@
-package com.quest.deadLockTest;
+package com.quest.synchronize.eadLockTest;
 
 public class DealThread implements Runnable {
 	public String username;

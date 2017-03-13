@@ -1,4 +1,4 @@
-package com.quest.defautThreadLocalValue;
+package com.quest.synchronize.defautThreadLocalValue;
 
 public class ThreadA extends Thread {
 

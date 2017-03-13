@@ -1,4 +1,4 @@
-package com.quest.defautThreadLocalValue;
+package com.quest.synchronize.defautThreadLocalValue;
 
 public class Run {
 	public static ThreadLocalExt t1 = new ThreadLocalExt();

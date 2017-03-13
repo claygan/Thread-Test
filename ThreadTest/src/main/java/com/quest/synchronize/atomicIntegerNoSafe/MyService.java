@@ -1,4 +1,4 @@
-package com.quest.atomicIntegerNoSafe;
+package com.quest.synchronize.atomicIntegerNoSafe;
 
 import java.util.concurrent.atomic.AtomicLong;
 
