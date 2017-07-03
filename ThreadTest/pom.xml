@@ -4,12 +4,26 @@
 
   <groupId>com.quest</groupId>
   <artifactId>ThreadTest</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>ThreadTest</name>
   <url>http://maven.apache.org</url>
-
+	<!-- 设置默认jdk版本是1.6 -->
+	<profiles>  
+		<profile>  
+			<id>jdk-1.6</id>  
+			<activation>  
+				<activeByDefault>true</activeByDefault>  
+				<jdk>1.6</jdk>  
+			</activation>  
+			<properties>  
+				<maven.compiler.source>1.6</maven.compiler.source>
+				<maven.compiler.target>1.6</maven.compiler.target> 
+				<maven.compiler.compilerVersion>1.6</maven.compiler.compilerVersion>  
+			</properties>  
+		</profile>  
+	</profiles>  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
